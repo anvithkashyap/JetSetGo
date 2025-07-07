@@ -12,7 +12,7 @@
 
 ## 📸 Screenshot
 
-
+![Screenshot 2025-07-07 at 10 24 23 AM](https://github.com/user-attachments/assets/04fadf53-de5a-418a-9364-ae7a5b67035e)
 
 ## 🚀 Tech Stack
 
@@ -24,7 +24,7 @@
 
 ## 🧪 Demo
 
-[Click here to try it live](https://your-deployment-link.vercel.app)
+[Click here to try it live]([https://your-deployment-link.vercel.app](https://v0-jet-set-go-landing-page.vercel.app/))
 
 ## 🛠 Setup
 
@@ -32,3 +32,4 @@
    ```bash
    git clone https://github.com/yourusername/jetsego.git
    cd jetsego
+
