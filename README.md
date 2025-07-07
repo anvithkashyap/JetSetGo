@@ -12,7 +12,7 @@
 
 ## 📸 Screenshot
 
-![JetSeGo Screenshot](assets/jetsego_ui.png)
+
 
 ## 🚀 Tech Stack
 
